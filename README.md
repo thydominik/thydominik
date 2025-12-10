@@ -10,6 +10,7 @@ I'm a PhD candidate specializing in **quantum algorithms** and **quantum informa
 - Dissipative quantum systems and Lindbladian dynamics
 - Adiabatic quantum computation and algorithms
 - Stabilizer formalism and quantum computational complexity
+- Tensor networks and many-body quantum systems
 - Quantum software development and simulations
 
 ## 🛠️ Technical Stack
@@ -24,7 +25,13 @@ I'm a PhD candidate specializing in **quantum algorithms** and **quantum informa
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **Quantum Computing**
-- Quantum simulation frameworks
+
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
+![Stim](https://img.shields.io/badge/-Stim-FF6B6B?style=flat&logoColor=white)
+![QuantumClifford.jl](https://img.shields.io/badge/-QuantumClifford.jl-9558B2?style=flat&logoColor=white)
+
+- Quantum simulation frameworks (Qiskit, Stim, QuantumClifford.jl)
+- Tensor network methods
 - Quantum algorithm development
 - Numerical methods for quantum systems
 
