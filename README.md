@@ -39,9 +39,21 @@ I'm a PhD candidate specializing in **quantum algorithms** and **quantum informa
 - **PhD Dissertation**: Quantum information theory, stabilizer states, and computational complexity
 - **Research**: Dissipative Lindbladian evolution and magic content in quantum systems
 - **Industry**: Adiabatic quantum algorithms and speed-up potentials
+
+## 🚀 Featured Projects
+
+### [Dissipative-Lindbladian-Evolution](https://github.com/thydominik/Dissipative-Lindbladian-Evolution)
+A MATLAB package for exact time evolution using the Lindbladian formalism. Provides tools for simulating open quantum system dynamics, accounting for both unitary evolution and dissipative processes through discrete quantum gates, jump operators, and dissipative gates.
+
+**Key Features:**
+- Exact Lindbladian time evolution for qubits/two-level systems
+- Multiple dissipation implementation methods
+- Comprehensive quantum circuit elements (gates, measurements, dissipators)
+- Bloch sphere visualization and quantum state tomography
+
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dominik-szombathy-65871114a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-szombathy-65871114a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:szombathy.dominik@gmail.com)
 
 ---
