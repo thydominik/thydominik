@@ -28,12 +28,6 @@ I'm a PhD candidate specializing in **quantum algorithms** and **quantum informa
 - Quantum algorithm development
 - Numerical methods for quantum systems
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thydominik&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thydominik&layout=compact&theme=transparent&hide_border=true)
-
 ## 🎓 Current Work
 
 - **PhD Dissertation**: Quantum information theory, stabilizer states, and computational complexity
@@ -55,6 +49,12 @@ A MATLAB package for exact time evolution using the Lindbladian formalism. Provi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-szombathy-65871114a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:szombathy.dominik@gmail.com)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thydominik&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thydominik&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
