@@ -61,8 +61,6 @@ A MATLAB package for exact time evolution using the Lindbladian formalism. Provi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thydominik&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thydominik&layout=compact&theme=transparent&hide_border=true)
-
 ---
 
 <details>
