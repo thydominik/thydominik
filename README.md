@@ -30,7 +30,7 @@ I'm a PhD candidate specializing in **quantum algorithms** and **quantum informa
 ![Stim](https://img.shields.io/badge/-Stim-FF6B6B?style=flat&logoColor=white)
 ![QuantumClifford.jl](https://img.shields.io/badge/-QuantumClifford.jl-9558B2?style=flat&logoColor=white)
 
-- Quantum simulation frameworks (Qiskit, Stim, QuantumClifford.jl)
+- Quantum simulation frameworks (Qiskit, Stim, QuantumClifford.jl, ITensors.jl)
 - Tensor network methods
 - Quantum algorithm development
 - Numerical methods for quantum systems
